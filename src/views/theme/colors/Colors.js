@@ -81,6 +81,9 @@ const Colors = () => {
             <ThemeColor className="bg-dark">
               <h6>Brand Dark Color</h6>
             </ThemeColor>
+            <ThemeColor className="bg-warning">
+              <h6>Flutter Developer</h6>
+            </ThemeColor>
           </CRow>
         </CCardBody>
       </CCard>

@@ -91,7 +91,7 @@ const Dashboard = () => {
     {
       avatar: { src: avatar1, status: 'success' },
       user: {
-        name: 'Yiorgos Avraamu',
+        name: 'Hello Buddy',
         new: true,
         registered: 'Jan 1, 2021',
       },
